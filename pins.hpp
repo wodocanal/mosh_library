@@ -6,9 +6,9 @@ namespace pins
     // МОТОРЫ
     enum MOTOR
     {
-        MM_IN_1000_TICKS = 250, // КОЛ-ВО ММ В 1000 ТИКАХ
-        DEFAULT_SPEED = 8, // скорость движения по умолчанию
-        TRACK = 178, // КОЛЕЯ
+        MM_IN_1000_TICKS = 250, // В 1000 ТИКАХ
+        DEFAULT_SPEED = 8,      // скорость движения по умолчанию
+        TRACK = 178,            // КОЛЕЯ
 
         // ЛЕВЫЙ
         ML_INVERT = false,
